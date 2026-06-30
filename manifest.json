@@ -1,0 +1,18 @@
+{
+  "name": "کاتالوگ هوشمند اتروپارس",
+  "short_name": "اتروپارس",
+  "description": "کاتالوگ محصولات شرکت اتروپارس",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#d10000",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["business", "shopping"],
+  "prefer_related_applications": false
+}
